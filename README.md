@@ -1,4 +1,4 @@
-# CS330_Project5_CryptoCore
+# CS330_Project6_CryptoCore
 
 ## Project Overview
 
